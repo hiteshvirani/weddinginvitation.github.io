@@ -1,0 +1,19 @@
+/* a div{ 
+    background-color: rgba(0, 0, 0, 0.133);
+} */
+
+#carasoul{
+    position: absolute;
+    top: 2385px;
+    width: 223px;
+    height: 372px;
+    left: 88px;
+}
+
+#carasoul2{
+    position: absolute;
+    top: 2958px;
+    width: 264px;
+    height: 366px;
+    left: 68px;
+}
